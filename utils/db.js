@@ -5,7 +5,7 @@ const knex = require('knex')({
       port : 3306,
       user : 'root',
       password : '311299',
-      database : 'nodejs_login'
+      database : 'valo_chat_clone'
     }
   });
 
